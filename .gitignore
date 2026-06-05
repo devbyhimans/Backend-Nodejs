@@ -79,3 +79,6 @@ report.html
 
 # ESLint cache
 .eslintcache
+
+npm_modules
+
